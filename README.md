@@ -31,7 +31,7 @@
 | Before | After |
 |-----------------|-----------------|
 | ⬆️ x1.35 Area Damage | ⬆️ x1.35 Area Damage |
-| ⬆️ x1.45 Effect Radius | ⬆️ x1.45 Effect Radius |
+| ⬆️ x1.45 Effect Radius | ⬆️ x3.4 Effect Radius |
 | ⬇️ -7 Damage | ⬇️ -7 Damage |
 
 #### Big Bertha
@@ -53,12 +53,12 @@
 
 | Before | After |
 |----------------|-----------------|
-| ⬆️ x3 Rate of Fire | |
-| ⬆️ +216 Max Ammo | |
-| ⬆️ x0.5 Horizontal / Vertical Spread | |
-| ⬇️ No Missile Guidance | |
-| ⬇️ -8 Direct Damage | |
-| ⬇️ -9 Area Damage | |
+| ⬆️ x3 Rate of Fire | x3 Rate of Fire |
+| ⬆️ +216 Max Ammo | +216 Max Ammo |
+| ⬆️ x0.5 Horizontal / Vertical Spread | x0.5 Horizontal / Vertical Spread  |
+| ⬇️ No Missile Guidance | - |
+| ⬇️ -8 Direct Damage | -8 Direct Damage |
+| ⬇️ -9 Area Damage | - |
 
 ## "Bulldog" Heavy Revolver
 
@@ -68,19 +68,46 @@
 
 | Before | After |
 |----------------|-----------------|
-| Pos x2 Damage | |
-| Pos x0.5 Base Spread |  |
-| Neg -12 Max Ammo
-| Neg -1 Magazine Size
-| Neg +0.5s Reload Time
-| Neg x2.5 Recoil
-| Neg +71% Spread per Shot
+| ⬆️ x2 Damage | |
+| ⬆️ x0.5 Base Spread |  |
+| ⬇️ -12 Max Ammo |  |
+| ⬇️ -1 Magazine Size |  |
+| ⬇️ +0.5s Reload Time |  |
+| ⬇️ x2.5 Recoil |  |
+| ⬇️ +71% Spread per Shot |  |
 
 # Driller
-## 火枪
-伤害钻头 
-火枪恐惧加点
-黏性燃料
+## CRSPR Flamethrower
+
+### Modifications
+
+#### T4A It Burns!
+| Before | After |
+|----------------|-----------------|
+| +20% Fear Factor | +50% Fear Factor|
+
+### Overclocks
+
+#### Sticky Fuel
+
+| Before | After |
+|----------------|-----------------|
+| ⬆️ +10 Sticky Flame DPS | ⬆️ +10 Sticky Flame DPS | 
+| ⬆️ +6s Sticky Flame Duration | ⬆️ +6s Sticky Flame Duration |
+| ⬇️ -25 Tank Size | - |
+| ⬇️ -75 Max Fuel | ⬇️ -75 Max Fuel |
+
+
+## Reinforced Power Drills
+
+### Modifications
+
+#### T1A Barbed Drills
+
+| Before | After |
+|----------------|-----------------|
+| +5 Damage | +10 Damage | 
+
 
 # Engineer
 ## Deepcore 40mm PGL
@@ -91,8 +118,8 @@
 
 | Before | After |
 |-----------------|-----------------|
-Pos +10 Area Damage
-Pos +0.5m Radius
+| ⬆️ +10 Area Damage | ⬆️ +300 Area Damage |
+| ⬆️ +0.5m Radius | ⬆️ +0.5m Radius  |
 
 
 ## Shard Diffractor
@@ -103,10 +130,9 @@ Pos +0.5m Radius
 
 | Before | After |
 |-----------------|-----------------|
-Pos +Feedback Loop
-    +1 Area Damage per second
-    +0.3m Radius per second
-Neg -100 Total Capacity
+| ⬆️ +1 Area Damage per second | |
+| ⬆️ +0.3m Radius per second | |
+| ⬇️ -100 Total Capacity | |
 
 
 ## LOK-1 Smart Rifle
@@ -117,17 +143,39 @@ Neg -100 Total Capacity
 
 | Before | After |
 |-----------------|-----------------|
-Pos +Seeker Rounds
-Pos x1.33 Lose Lock Threshold
-Neg 47% slower Burst Fire Rate
-Neg +0.5 Reload Time
+| ⬆️ +Seeker Rounds | |
+| ⬆️ x1.33 Lose Lock Threshold | ⬆️ x1.33 Lose Lock Threshold |
+| ⬇️ 47% slower Burst Fire Rate | - |
+| ⬇️ +0.5 Reload Time | ⬇️ +0.5 Reload Time |
 
 
 # Scout
 
-## M1000 
-### 过冷枪膛
+## M1000 Classic
 
-## 电浆卡宾枪
-### 爆能电浆
+### Overclocks
 
+### Supercooling Chamber
+
+| Before | After |
+|-----------------|-----------------|
+⬆️ +150% Focused Shot Damage Bonus
+⬆️ x3 Weakpoint Damage Bonus
+⬇️ x0.685 Max Ammo
+⬇️ x0.73 Clip Size
+⬇️ x0.6 Focus Speed
+⬇️ x0 Focus Mode Movement Speed
+
+
+## DRAK-25 Plasma Carbine
+
+### Overclocks
+
+### Overtuned Particle Accelerator
+
+| Before | After |
+|-----------------|-----------------|
+⬆️ +8 Direct Damage
+⬇️ x0.8 Battery Capacity
+⬇️ x1.5 Heat per Shot
+⬇️ Increased Base Spread
