@@ -60,6 +60,14 @@
 | ⬇️ -8 Direct Damage | -8 Direct Damage |
 | ⬇️ -9 Area Damage | - |
 
+#### Salvo Module
+
+| Before <img width="400"/> | After <img width="400"/> |
+|----------------|-----------------|
+| ⬆️ Direct/Area Damage: 0.625 + (0.375 x missiles loaded) | ⬆️ Direct/Area Damage: 0.625 + (0.375 x missiles loaded) |
+| - | ⬆️ x2 Area Damage |
+
+
 ## "Bulldog" Heavy Revolver
 
 ### Overclocks
