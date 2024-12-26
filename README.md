@@ -31,17 +31,17 @@
 | Before | After |
 |-----------------|-----------------|
 | ⬆️ x1.35 Area Damage | ⬆️ x1.35 Area Damage |
-| ⬆️ x1.45 Effect Radius | ⬆️ x3.4 Effect Radius |
+| ⬆️ x1.45 Effect Radius | ⬆️ x2 Effect Radius |
 | ⬇️ -7 Damage | ⬇️ -7 Damage |
 
 #### Big Bertha
 
 | Before | After |
 |----------------|-----------------|
-| ⬆️ +12 Damage | ⬆️ +12 Damage |
-| ⬆️ x0.7 Base Spread | ⬆️ x0.7 Base Spread |
-| ⬇️ x0.5 Magazine Size | - |
-| ⬇️ -110 Max Ammo | ⬇️ -55 Max Ammo |
+| ⬆️ +12 Damage | ⬆️ +24 Damage |
+| ⬆️ x0.7 Base Spread | ⬆️ x0.01 Base Spread |
+| ⬇️ x0.5 Magazine Size | ⬇️ x0.5 Magazine Size |
+| ⬇️ -110 Max Ammo | - |
 | ⬇️ -1.5 Top Rate of Fire | ⬇️ -1.5 Top Rate of Fire |
 
 
