@@ -40,8 +40,8 @@
 |----------------|-----------------|
 | ⬆️ +12 Damage | ⬆️ +12 Damage |
 | ⬆️ x0.7 Base Spread | ⬆️ x0.7 Base Spread |
-| ⬇️ x0.5 Magazine Size | ⬇️ x0.5 Magazine Size |
-| ⬇️ -110 Max Ammo | ⬇️ -110 Max Ammo |
+| ⬇️ x0.5 Magazine Size | - |
+| ⬇️ -110 Max Ammo | ⬇️ -55 Max Ammo |
 | ⬇️ -1.5 Top Rate of Fire | ⬇️ -1.5 Top Rate of Fire |
 
 
@@ -130,9 +130,9 @@
 
 | Before | After |
 |-----------------|-----------------|
-| ⬆️ +1 Area Damage per second | |
-| ⬆️ +0.3m Radius per second | |
-| ⬇️ -100 Total Capacity | |
+| ⬆️ +1 Area Damage per second | ⬆️ +8 Area Damage per second |
+| ⬆️ +0.3m Radius per second | ⬆️ +1m Radius per second |
+| ⬇️ -100 Total Capacity | ⬇️ -100 Total Capacity |
 
 
 ## LOK-1 Smart Rifle
@@ -143,7 +143,7 @@
 
 | Before | After |
 |-----------------|-----------------|
-| ⬆️ +Seeker Rounds | |
+| ⬆️ +Seeker Rounds | +Seeker Rounds |
 | ⬆️ x1.33 Lose Lock Threshold | ⬆️ x1.33 Lose Lock Threshold |
 | ⬇️ 47% slower Burst Fire Rate | - |
 | ⬇️ +0.5 Reload Time | ⬇️ +0.5 Reload Time |
@@ -159,12 +159,12 @@
 
 | Before | After |
 |-----------------|-----------------|
-⬆️ +150% Focused Shot Damage Bonus
-⬆️ x3 Weakpoint Damage Bonus
-⬇️ x0.685 Max Ammo
-⬇️ x0.73 Clip Size
-⬇️ x0.6 Focus Speed
-⬇️ x0 Focus Mode Movement Speed
+| ⬆️ +150% Focused Shot Damage Bonus | |
+| ⬆️ x3 Weakpoint Damage Bonus | |
+| ⬇️ x0.685 Max Ammo | |
+| ⬇️ x0.73 Clip Size | |
+| ⬇️ x0.6 Focus Speed | |
+| ⬇️ x0 Focus Mode Movement Speed | |
 
 
 ## DRAK-25 Plasma Carbine
@@ -175,7 +175,7 @@
 
 | Before | After |
 |-----------------|-----------------|
-⬆️ +8 Direct Damage
-⬇️ x0.8 Battery Capacity
-⬇️ x1.5 Heat per Shot
-⬇️ Increased Base Spread
+| ⬆️ +8 Direct Damage | ⬆️ +8 Direct Damage |
+| ⬇️ x0.8 Battery Capacity | ⬇️ x0.8 Battery Capacity | 
+| ⬇️ x1.5 Heat per Shot | ⬇️ x1.5 Heat per Shot |
+| ⬇️ Increased Base Spread | - |
