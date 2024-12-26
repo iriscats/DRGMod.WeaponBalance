@@ -159,12 +159,12 @@
 
 | Before | After |
 |-----------------|-----------------|
-| ⬆️ +150% Focused Shot Damage Bonus | |
-| ⬆️ x3 Weakpoint Damage Bonus | |
-| ⬇️ x0.685 Max Ammo | |
-| ⬇️ x0.73 Clip Size | |
-| ⬇️ x0.6 Focus Speed | |
-| ⬇️ x0 Focus Mode Movement Speed | |
+| ⬆️ +150% Focused Shot Damage Bonus | ⬆️ +300% Focused Shot Damage Bonus |
+| ⬆️ x3 Weakpoint Damage Bonus | ⬆️ x3 Weakpoint Damage Bonus |
+| ⬇️ x0.685 Max Ammo | ⬇️ x0.685 Max Ammo |
+| ⬇️ x0.73 Clip Size | ⬇️ x0.73 Clip Size |
+| ⬇️ x0.6 Focus Speed | ⬇️ x0.6 Focus Speed |
+| ⬇️ x0 Focus Mode Movement Speed | - |
 
 
 ## DRAK-25 Plasma Carbine
