@@ -7,7 +7,7 @@
 ### Overclocks
 #### Bullet Hell 
 
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |-----------------|-----------------|
 | ⬆️ +75% ricochet chance on bullets  |⬆️ +100% ricochet chance on bullets  |
 | ⬇️ -3 Damage  | - |
@@ -18,7 +18,7 @@
 ### Overclocks
 #### Combat Mobility
 
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |-----------------|-----------------|
 | ⬆️ +35% Movement Speed While Using | ⬆️ +100% Movement Speed While Using |
 | ⬆️ x0.7 Base Spread | ⬆️ x0.7 Base Spread |
@@ -28,7 +28,7 @@
 
 #### Carpet Bomber
 
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |-----------------|-----------------|
 | ⬆️ x1.35 Area Damage | ⬆️ x1.35 Area Damage |
 | ⬆️ x1.45 Effect Radius | ⬆️ x2 Effect Radius |
@@ -36,7 +36,7 @@
 
 #### Big Bertha
 
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |----------------|-----------------|
 | ⬆️ +12 Damage | ⬆️ +24 Damage |
 | ⬆️ x0.7 Base Spread | ⬆️ x0.01 Base Spread |
@@ -51,7 +51,7 @@
 
 #### Rocket Barrage
 
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |----------------|-----------------|
 | ⬆️ x3 Rate of Fire | x3 Rate of Fire |
 | ⬆️ +216 Max Ammo | +216 Max Ammo |
@@ -66,7 +66,7 @@
 
 #### Elephant Rounds
 
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |----------------|-----------------|
 | ⬆️ x2 Damage | |
 | ⬆️ x0.5 Base Spread |  |
@@ -82,7 +82,7 @@
 ### Modifications
 
 #### T4A It Burns!
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |----------------|-----------------|
 | +20% Fear Factor | +50% Fear Factor|
 
@@ -90,7 +90,7 @@
 
 #### Sticky Fuel
 
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |----------------|-----------------|
 | ⬆️ +10 Sticky Flame DPS | ⬆️ +10 Sticky Flame DPS | 
 | ⬆️ +6s Sticky Flame Duration | ⬆️ +6s Sticky Flame Duration |
@@ -104,7 +104,7 @@
 
 #### T1A Barbed Drills
 
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |----------------|-----------------|
 | +5 Damage | +10 Damage | 
 
@@ -116,7 +116,7 @@
 
 #### Clean Sweep 
 
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |-----------------|-----------------|
 | ⬆️ +10 Area Damage | ⬆️ +300 Area Damage |
 | ⬆️ +0.5m Radius | ⬆️ +0.5m Radius  |
@@ -128,7 +128,7 @@
 
 #### Feedback Loop
 
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |-----------------|-----------------|
 | ⬆️ +1 Area Damage per second | ⬆️ +8 Area Damage per second |
 | ⬆️ +0.3m Radius per second | ⬆️ +1m Radius per second |
@@ -141,7 +141,7 @@
 
 #### Seeker Rounds
 
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |-----------------|-----------------|
 | ⬆️ +Seeker Rounds | +Seeker Rounds |
 | ⬆️ x1.33 Lose Lock Threshold | ⬆️ x1.33 Lose Lock Threshold |
@@ -157,7 +157,7 @@
 
 ### Supercooling Chamber
 
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |-----------------|-----------------|
 | ⬆️ +150% Focused Shot Damage Bonus | ⬆️ +300% Focused Shot Damage Bonus |
 | ⬆️ x3 Weakpoint Damage Bonus | ⬆️ x3 Weakpoint Damage Bonus |
@@ -173,7 +173,7 @@
 
 ### Overtuned Particle Accelerator
 
-| Before | After |
+| <div style="width:300px">Before</div> | <div style="width:300px">After</div> |
 |-----------------|-----------------|
 | ⬆️ +8 Direct Damage | ⬆️ +8 Direct Damage |
 | ⬇️ x0.8 Battery Capacity | ⬇️ x0.8 Battery Capacity | 
