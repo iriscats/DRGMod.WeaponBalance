@@ -68,13 +68,13 @@
 
 | Before <img width="400"/> | After <img width="400"/> |
 |----------------|-----------------|
-| ⬆️ x2 Damage | |
-| ⬆️ x0.5 Base Spread |  |
-| ⬇️ -12 Max Ammo |  |
-| ⬇️ -1 Magazine Size |  |
-| ⬇️ +0.5s Reload Time |  |
-| ⬇️ x2.5 Recoil |  |
-| ⬇️ +71% Spread per Shot |  |
+| ⬆️ x2 Damage | ⬆️ x3 Damage |
+| ⬆️ x0.5 Base Spread | ⬆️ x0.5 Base Spread |
+| ⬇️ -12 Max Ammo | ⬇️ -12 Max Ammo |
+| ⬇️ -1 Magazine Size | ⬇️ -1 Magazine Size |
+| ⬇️ +0.5s Reload Time | ⬇️ +0.5s Reload Time |
+| ⬇️ x2.5 Recoil | ⬇️ x2.5 Recoil |
+| ⬇️ +71% Spread per Shot | ⬇️ +71% Spread per Shot |
 
 # Driller
 ## CRSPR Flamethrower
@@ -106,7 +106,7 @@
 
 | Before <img width="400"/> | After <img width="400"/> |
 |----------------|-----------------|
-| +5 Damage | +10 Damage | 
+| +5 Damage | +15 Damage | 
 
 
 # Engineer
@@ -118,7 +118,7 @@
 
 | Before <img width="400"/> | After <img width="400"/> |
 |-----------------|-----------------|
-| ⬆️ +10 Area Damage | ⬆️ +300 Area Damage |
+| ⬆️ +10 Area Damage | ⬆️ +200 Area Damage |
 | ⬆️ +0.5m Radius | ⬆️ +0.5m Radius  |
 
 
